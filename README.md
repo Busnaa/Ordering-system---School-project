@@ -1,6 +1,6 @@
 # Název projektu
 
-Projektik
+Objednávací systém
 
 ## Popis
 Tento projekt je jednoduchá konzolová aplikace pro správu objednávek.
